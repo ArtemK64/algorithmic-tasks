@@ -1,0 +1,5 @@
+4
+opt
+usr
+bin
+opt/tomcat

@@ -1,0 +1,3 @@
+kolya 5
+petya 3
+vasya 4

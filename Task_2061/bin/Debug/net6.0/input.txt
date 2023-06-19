@@ -1,0 +1,6 @@
+6
+a main
+aa a
+aaa aa
+b main
+bb b
