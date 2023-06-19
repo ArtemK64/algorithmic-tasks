@@ -1,0 +1,15 @@
+C:\Users\kalan\source\repos\Task_2021\bin\Debug\net6.0\Task_2021.exe
+C:\Users\kalan\source\repos\Task_2021\bin\Debug\net6.0\Task_2021.deps.json
+C:\Users\kalan\source\repos\Task_2021\bin\Debug\net6.0\Task_2021.runtimeconfig.json
+C:\Users\kalan\source\repos\Task_2021\bin\Debug\net6.0\Task_2021.dll
+C:\Users\kalan\source\repos\Task_2021\bin\Debug\net6.0\Task_2021.pdb
+C:\Users\kalan\source\repos\Task_2021\obj\Debug\net6.0\Task_2021.csproj.AssemblyReference.cache
+C:\Users\kalan\source\repos\Task_2021\obj\Debug\net6.0\Task_2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalan\source\repos\Task_2021\obj\Debug\net6.0\Task_2021.AssemblyInfoInputs.cache
+C:\Users\kalan\source\repos\Task_2021\obj\Debug\net6.0\Task_2021.AssemblyInfo.cs
+C:\Users\kalan\source\repos\Task_2021\obj\Debug\net6.0\Task_2021.csproj.CoreCompileInputs.cache
+C:\Users\kalan\source\repos\Task_2021\obj\Debug\net6.0\Task_2021.dll
+C:\Users\kalan\source\repos\Task_2021\obj\Debug\net6.0\refint\Task_2021.dll
+C:\Users\kalan\source\repos\Task_2021\obj\Debug\net6.0\Task_2021.pdb
+C:\Users\kalan\source\repos\Task_2021\obj\Debug\net6.0\Task_2021.genruntimeconfig.cache
+C:\Users\kalan\source\repos\Task_2021\obj\Debug\net6.0\ref\Task_2021.dll

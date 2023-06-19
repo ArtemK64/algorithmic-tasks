@@ -1,0 +1,15 @@
+C:\Users\kalan\source\repos\Task_2001\bin\Debug\net6.0\Task_2001.exe
+C:\Users\kalan\source\repos\Task_2001\bin\Debug\net6.0\Task_2001.deps.json
+C:\Users\kalan\source\repos\Task_2001\bin\Debug\net6.0\Task_2001.runtimeconfig.json
+C:\Users\kalan\source\repos\Task_2001\bin\Debug\net6.0\Task_2001.dll
+C:\Users\kalan\source\repos\Task_2001\bin\Debug\net6.0\Task_2001.pdb
+C:\Users\kalan\source\repos\Task_2001\obj\Debug\net6.0\Task_2001.csproj.AssemblyReference.cache
+C:\Users\kalan\source\repos\Task_2001\obj\Debug\net6.0\Task_2001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalan\source\repos\Task_2001\obj\Debug\net6.0\Task_2001.AssemblyInfoInputs.cache
+C:\Users\kalan\source\repos\Task_2001\obj\Debug\net6.0\Task_2001.AssemblyInfo.cs
+C:\Users\kalan\source\repos\Task_2001\obj\Debug\net6.0\Task_2001.csproj.CoreCompileInputs.cache
+C:\Users\kalan\source\repos\Task_2001\obj\Debug\net6.0\Task_2001.dll
+C:\Users\kalan\source\repos\Task_2001\obj\Debug\net6.0\refint\Task_2001.dll
+C:\Users\kalan\source\repos\Task_2001\obj\Debug\net6.0\Task_2001.pdb
+C:\Users\kalan\source\repos\Task_2001\obj\Debug\net6.0\Task_2001.genruntimeconfig.cache
+C:\Users\kalan\source\repos\Task_2001\obj\Debug\net6.0\ref\Task_2001.dll

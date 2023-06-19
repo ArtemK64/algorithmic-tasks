@@ -1,0 +1,15 @@
+C:\Users\kalan\source\repos\Task_2018\bin\Debug\net6.0\Task_2018.exe
+C:\Users\kalan\source\repos\Task_2018\bin\Debug\net6.0\Task_2018.deps.json
+C:\Users\kalan\source\repos\Task_2018\bin\Debug\net6.0\Task_2018.runtimeconfig.json
+C:\Users\kalan\source\repos\Task_2018\bin\Debug\net6.0\Task_2018.dll
+C:\Users\kalan\source\repos\Task_2018\bin\Debug\net6.0\Task_2018.pdb
+C:\Users\kalan\source\repos\Task_2018\obj\Debug\net6.0\Task_2018.csproj.AssemblyReference.cache
+C:\Users\kalan\source\repos\Task_2018\obj\Debug\net6.0\Task_2018.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalan\source\repos\Task_2018\obj\Debug\net6.0\Task_2018.AssemblyInfoInputs.cache
+C:\Users\kalan\source\repos\Task_2018\obj\Debug\net6.0\Task_2018.AssemblyInfo.cs
+C:\Users\kalan\source\repos\Task_2018\obj\Debug\net6.0\Task_2018.csproj.CoreCompileInputs.cache
+C:\Users\kalan\source\repos\Task_2018\obj\Debug\net6.0\Task_2018.dll
+C:\Users\kalan\source\repos\Task_2018\obj\Debug\net6.0\refint\Task_2018.dll
+C:\Users\kalan\source\repos\Task_2018\obj\Debug\net6.0\Task_2018.pdb
+C:\Users\kalan\source\repos\Task_2018\obj\Debug\net6.0\Task_2018.genruntimeconfig.cache
+C:\Users\kalan\source\repos\Task_2018\obj\Debug\net6.0\ref\Task_2018.dll

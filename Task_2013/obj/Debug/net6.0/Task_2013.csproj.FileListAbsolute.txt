@@ -1,0 +1,15 @@
+C:\Users\kalan\source\repos\Task_2013\bin\Debug\net6.0\Task_2013.exe
+C:\Users\kalan\source\repos\Task_2013\bin\Debug\net6.0\Task_2013.deps.json
+C:\Users\kalan\source\repos\Task_2013\bin\Debug\net6.0\Task_2013.runtimeconfig.json
+C:\Users\kalan\source\repos\Task_2013\bin\Debug\net6.0\Task_2013.dll
+C:\Users\kalan\source\repos\Task_2013\bin\Debug\net6.0\Task_2013.pdb
+C:\Users\kalan\source\repos\Task_2013\obj\Debug\net6.0\Task_2013.csproj.AssemblyReference.cache
+C:\Users\kalan\source\repos\Task_2013\obj\Debug\net6.0\Task_2013.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalan\source\repos\Task_2013\obj\Debug\net6.0\Task_2013.AssemblyInfoInputs.cache
+C:\Users\kalan\source\repos\Task_2013\obj\Debug\net6.0\Task_2013.AssemblyInfo.cs
+C:\Users\kalan\source\repos\Task_2013\obj\Debug\net6.0\Task_2013.csproj.CoreCompileInputs.cache
+C:\Users\kalan\source\repos\Task_2013\obj\Debug\net6.0\Task_2013.dll
+C:\Users\kalan\source\repos\Task_2013\obj\Debug\net6.0\refint\Task_2013.dll
+C:\Users\kalan\source\repos\Task_2013\obj\Debug\net6.0\Task_2013.pdb
+C:\Users\kalan\source\repos\Task_2013\obj\Debug\net6.0\Task_2013.genruntimeconfig.cache
+C:\Users\kalan\source\repos\Task_2013\obj\Debug\net6.0\ref\Task_2013.dll

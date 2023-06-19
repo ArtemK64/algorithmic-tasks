@@ -1,0 +1,15 @@
+C:\Users\kalan\source\repos\Task_2056\bin\Debug\net6.0\Task_2056.exe
+C:\Users\kalan\source\repos\Task_2056\bin\Debug\net6.0\Task_2056.deps.json
+C:\Users\kalan\source\repos\Task_2056\bin\Debug\net6.0\Task_2056.runtimeconfig.json
+C:\Users\kalan\source\repos\Task_2056\bin\Debug\net6.0\Task_2056.dll
+C:\Users\kalan\source\repos\Task_2056\bin\Debug\net6.0\Task_2056.pdb
+C:\Users\kalan\source\repos\Task_2056\obj\Debug\net6.0\Task_2056.csproj.AssemblyReference.cache
+C:\Users\kalan\source\repos\Task_2056\obj\Debug\net6.0\Task_2056.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalan\source\repos\Task_2056\obj\Debug\net6.0\Task_2056.AssemblyInfoInputs.cache
+C:\Users\kalan\source\repos\Task_2056\obj\Debug\net6.0\Task_2056.AssemblyInfo.cs
+C:\Users\kalan\source\repos\Task_2056\obj\Debug\net6.0\Task_2056.csproj.CoreCompileInputs.cache
+C:\Users\kalan\source\repos\Task_2056\obj\Debug\net6.0\Task_2056.dll
+C:\Users\kalan\source\repos\Task_2056\obj\Debug\net6.0\refint\Task_2056.dll
+C:\Users\kalan\source\repos\Task_2056\obj\Debug\net6.0\Task_2056.pdb
+C:\Users\kalan\source\repos\Task_2056\obj\Debug\net6.0\Task_2056.genruntimeconfig.cache
+C:\Users\kalan\source\repos\Task_2056\obj\Debug\net6.0\ref\Task_2056.dll

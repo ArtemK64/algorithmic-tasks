@@ -1,0 +1,15 @@
+C:\Users\kalan\source\repos\Task_2027\bin\Debug\net6.0\Task_2027.exe
+C:\Users\kalan\source\repos\Task_2027\bin\Debug\net6.0\Task_2027.deps.json
+C:\Users\kalan\source\repos\Task_2027\bin\Debug\net6.0\Task_2027.runtimeconfig.json
+C:\Users\kalan\source\repos\Task_2027\bin\Debug\net6.0\Task_2027.dll
+C:\Users\kalan\source\repos\Task_2027\bin\Debug\net6.0\Task_2027.pdb
+C:\Users\kalan\source\repos\Task_2027\obj\Debug\net6.0\Task_2027.csproj.AssemblyReference.cache
+C:\Users\kalan\source\repos\Task_2027\obj\Debug\net6.0\Task_2027.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalan\source\repos\Task_2027\obj\Debug\net6.0\Task_2027.AssemblyInfoInputs.cache
+C:\Users\kalan\source\repos\Task_2027\obj\Debug\net6.0\Task_2027.AssemblyInfo.cs
+C:\Users\kalan\source\repos\Task_2027\obj\Debug\net6.0\Task_2027.csproj.CoreCompileInputs.cache
+C:\Users\kalan\source\repos\Task_2027\obj\Debug\net6.0\Task_2027.dll
+C:\Users\kalan\source\repos\Task_2027\obj\Debug\net6.0\refint\Task_2027.dll
+C:\Users\kalan\source\repos\Task_2027\obj\Debug\net6.0\Task_2027.pdb
+C:\Users\kalan\source\repos\Task_2027\obj\Debug\net6.0\Task_2027.genruntimeconfig.cache
+C:\Users\kalan\source\repos\Task_2027\obj\Debug\net6.0\ref\Task_2027.dll

@@ -1,0 +1,15 @@
+C:\Users\kalan\source\repos\Task_2022\bin\Debug\net6.0\Task_2022.exe
+C:\Users\kalan\source\repos\Task_2022\bin\Debug\net6.0\Task_2022.deps.json
+C:\Users\kalan\source\repos\Task_2022\bin\Debug\net6.0\Task_2022.runtimeconfig.json
+C:\Users\kalan\source\repos\Task_2022\bin\Debug\net6.0\Task_2022.dll
+C:\Users\kalan\source\repos\Task_2022\bin\Debug\net6.0\Task_2022.pdb
+C:\Users\kalan\source\repos\Task_2022\obj\Debug\net6.0\Task_2022.csproj.AssemblyReference.cache
+C:\Users\kalan\source\repos\Task_2022\obj\Debug\net6.0\Task_2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalan\source\repos\Task_2022\obj\Debug\net6.0\Task_2022.AssemblyInfoInputs.cache
+C:\Users\kalan\source\repos\Task_2022\obj\Debug\net6.0\Task_2022.AssemblyInfo.cs
+C:\Users\kalan\source\repos\Task_2022\obj\Debug\net6.0\Task_2022.csproj.CoreCompileInputs.cache
+C:\Users\kalan\source\repos\Task_2022\obj\Debug\net6.0\Task_2022.dll
+C:\Users\kalan\source\repos\Task_2022\obj\Debug\net6.0\refint\Task_2022.dll
+C:\Users\kalan\source\repos\Task_2022\obj\Debug\net6.0\Task_2022.pdb
+C:\Users\kalan\source\repos\Task_2022\obj\Debug\net6.0\Task_2022.genruntimeconfig.cache
+C:\Users\kalan\source\repos\Task_2022\obj\Debug\net6.0\ref\Task_2022.dll
